@@ -12,6 +12,8 @@ I develop two model which are deeplstm and attentive reader.
 
 The original datasets can be downloaded from https://github.com/deepmind/rc-data or http://cs.nyu.edu/~kcho/DMQA/.
 
+The other SciQ datasets I upload on github.
+
 Word embeddings: glove.6B.zip: http://nlp.stanford.edu/data/glove.6B.zip
 
 # 3. Prerequisites

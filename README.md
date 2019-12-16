@@ -4,6 +4,8 @@
 
 This project is focus on develop and implement a RNN model on Teaching Machine Reading and Comprehension.
 
+This repository is for student projects githubs for e4040 2019 Fall.
+
 I develop two model which are deeplstm and attentive reader.
 
 ![Image of Yaktocat](https://github.com/jsheng0901/Teaching-Machine-Reading-and-Comprehension/blob/master/models/models.png)
